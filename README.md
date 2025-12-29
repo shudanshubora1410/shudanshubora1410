@@ -1,6 +1,6 @@
 Hi 👋 I'm Shudanshu
 
-- 🎓 BTech CSE Student (AKTU)
+- 🎓 BTech IT Student (AKTU)
 - 💻 Java & Data Structures
 - 🔥 LeetCode Practice
 - 🎯 Goal: Software Developer
