@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shudanshu Bora!
 
-### Aspiring Software Engineer | Full-Stack Developer | Problem Solver
+### Java Full Stack Developer | B.Tech IT Student | Problem Solver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shudanshubora/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shudanshubora1410.github.io/portfolio-website/)
@@ -10,7 +10,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shudanshubora1410)
 [![Cafe Roadway](https://img.shields.io/badge/☕_Cafe_Roadway-d4af37?style=for-the-badge&labelColor=0f0f0f)](https://shudanshubora1410.github.io/cafe-roadway)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=3rd+Year+B.Tech+IT+Student;Full-Stack+Web+Developer;Java+%26+Data+Structures+Enthusiast;Building+Real-World+Solutions;Creator+of+Cafe+Roadway+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=3rd+Year+B.Tech+IT+%40+GLBITM;Java+Full+Stack+Developer;DSA+%26+Problem+Solver;Core+Java+%E2%9C%85+DSA+%E2%9C%85+Web+Dev+%E2%9C%85;Currently+Learning+Advanced+Java+%F0%9F%94%84;Building+Real-World+Solutions;Creator+of+Cafe+Roadway+%E2%98%95" alt="Typing SVG" />
 
 </div>
 
@@ -18,39 +18,67 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech IT Student** at GLBITM, Greater Noida
-- 💻 Passionate about **Full-Stack Development** & **Problem Solving**
-- 🔥 Regular **LeetCode** practitioner
-- 🏥 Built a complete **Hospital Management System** in 2nd year
-- ☕ Created **Cafe Roadway** – Premium 43-feature restaurant website
-- 🎯 **Goal:** Software Developer at a product-based company
-- 🌱 Currently learning **React.js** & **MongoDB**
+- 🎓 **B.Tech IT Student** at GLBITM, Greater Noida (3rd Year)
+- ☕ **Java Full Stack Developer** – Learning step by step
+- 🧠 Strong foundation in **Core Java** & **DSA**
+- 🌐 Completed **Frontend Development** (HTML, CSS, JS, Bootstrap)
+- 🔄 Currently mastering **Advanced Java** (Collections, Threads, Files)
+- 🏥 Built **NovaCare HMS** – Full-stack hospital system in 2nd year
+- ☕ Created **Cafe Roadway** – 43-feature premium restaurant website
+- 🎯 **Goal:** Java Full Stack Developer at a product-based company
 - 📍 **Location:** Greater Noida, India 🇮🇳
+
+---
+
+## 🗺️ Java Full Stack Roadmap
+Phase 1 ✅ → Phase 2 ✅ → Phase 3 ✅ → Phase 4 🔄 → Phase 5 🎯 → Phase 6 🎯
+
+text
+
+
+| Phase | Topic | Status |
+|:---:|:---|:---:|
+| 1️⃣ | ☕ **Core Java** – OOP, Methods, Logic Building | ✅ Completed |
+| 2️⃣ | 🧠 **DSA** – Arrays, Trees, Graphs, DP, Backtracking | ✅ Completed |
+| 3️⃣ | 🌐 **Frontend** – HTML, CSS, JS, Bootstrap | ✅ Completed |
+| 4️⃣ | ⚙️ **Advanced Java** – Collections, Threads, Files | 🔄 In Progress |
+| 5️⃣ | 🛠️ **Backend Java** – MySQL, Hibernate, Spring Boot | 🎯 Coming Soon |
+| 6️⃣ | 🚀 **Full Stack** – React JS, Spring Security, REST APIs | 🎯 Coming Soon |
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### ✅ Completed & Confident
+
+![Java](https://img.shields.io/badge/Java_Core-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA_Java-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend & Design
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive_Design-0f9d58?style=for-the-badge&logo=google-chrome&logoColor=white)
 
-### Tools
+### 🔄 Currently Learning
+
+![Advanced Java](https://img.shields.io/badge/Advanced_Java-🔄_In_Progress-00d4ff?style=for-the-badge&labelColor=0f0f0f)
+![Collections](https://img.shields.io/badge/Collections_Framework-00d4ff?style=for-the-badge&labelColor=1a1a2e)
+![Multithreading](https://img.shields.io/badge/Multithreading-00d4ff?style=for-the-badge&labelColor=1a1a2e)
+
+### 🎯 Coming Next
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-🎯_Soon-6DB33F?style=for-the-badge&labelColor=0f0f0f&logoColor=white)
+![React](https://img.shields.io/badge/React_JS-🎯_Soon-61DAFB?style=for-the-badge&labelColor=0f0f0f)
+![MySQL](https://img.shields.io/badge/MySQL-🎯_Soon-4479A1?style=for-the-badge&labelColor=0f0f0f)
+![MongoDB](https://img.shields.io/badge/MongoDB-🎯_Soon-47A248?style=for-the-badge&labelColor=0f0f0f)
+![Hibernate](https://img.shields.io/badge/Hibernate-🎯_Soon-59666C?style=for-the-badge&labelColor=0f0f0f)
+![Spring Security](https://img.shields.io/badge/Spring_Security-🎯_Soon-6DB33F?style=for-the-badge&labelColor=0f0f0f)
+
+### 🛠️ Tools & Others
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -64,7 +92,7 @@
 
 </div>
 
-> A premium, dark-luxury restaurant website built from scratch using **only HTML, CSS & Vanilla JavaScript**. Features 43+ interactive components including bill calculator, live search, dark/light mode, spin wheel, and much more — all in just 3 files!
+> A premium, dark-luxury restaurant website built from scratch using **only HTML, CSS & Vanilla JavaScript**. Features 43+ interactive components including bill calculator, live search, dark/light mode, spin wheel, and much more — all in just **3 files**!
 
 **🌐 Live Demo:** [shudanshubora1410.github.io/cafe-roadway](https://shudanshubora1410.github.io/cafe-roadway)
 
@@ -113,31 +141,31 @@ A comprehensive hospital management system with patient management, appointment 
 **Tech:** Node.js • Express.js • MySQL • JavaScript • HTML5 • CSS3
 
 **Highlights:**
-- Complete CRUD Operations for Patients, Doctors, Appointments
-- 24 RESTful API endpoints
-- Role-based Authentication (Admin/Doctor)
-- Automated 18% GST Billing System
-- Real-time Dashboard with Statistics
+- ✅ Complete CRUD Operations for Patients, Doctors, Appointments
+- ✅ 24 RESTful API endpoints
+- ✅ Role-based Authentication (Admin/Doctor/Patient)
+- ✅ Automated 18% GST Billing System
+- ✅ Real-time Dashboard with Statistics
 
 [![View Project](https://img.shields.io/badge/View_Project-2E9EF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shudanshubora1410/hospital-management-system)
 
 ---
 
 ### 📧 [Email Sender - Java](https://github.com/shudanshubora1410/Email-Sender-Java)
-> **Java-based Email Automation Tool**
+> **Java Desktop Application | JavaMail API**
 
-Email sender application built using Core Java and JavaMail API for automated email functionality.
+Email sender built using Core Java & Swing with Gmail SMTP support, file attachments and clean UI.
 
-**Tech:** Java • JavaMail API
+**Tech:** Java • Swing • JavaMail API • SMTP
 
 [![View Project](https://img.shields.io/badge/View_Project-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/shudanshubora1410/Email-Sender-Java)
 
 ---
 
 ### 💻 [Portfolio Website](https://github.com/shudanshubora1410/portfolio-website)
-> **Personal Developer Portfolio**
+> **Personal Developer Portfolio | v4.0**
 
-Personal portfolio website showcasing projects, skills, and achievements.
+Premium portfolio showcasing Java Full Stack journey, projects, and learning roadmap.
 
 **Tech:** HTML • CSS • JavaScript
 
@@ -146,9 +174,9 @@ Personal portfolio website showcasing projects, skills, and achievements.
 ---
 
 ### 🧑‍💻 [LeetCode Solutions - Java](https://github.com/shudanshubora1410/LeetCode-Java)
-> **Data Structures & Algorithms Practice**
+> **DSA Practice | Interview Preparation**
 
-Collection of LeetCode problem solutions implemented in Java.
+Collection of LeetCode solutions in Java covering Arrays, Trees, Graphs, DP, and more.
 
 **Tech:** Java • Data Structures • Algorithms
 
@@ -173,14 +201,26 @@ Collection of LeetCode problem solutions implemented in Java.
 
 ---
 
-## 🎯 Current Focus
+## 📈 Activity Graph
 
-- 📚 **Data Structures & Algorithms** (Java)
-- 🔥 **LeetCode** daily practice
-- 🌐 **Full-Stack Development** (MERN Stack)
-- ☕ **Premium Web Projects** (like Cafe Roadway)
-- 🏗️ Building real-world solutions
-- 📖 Learning **System Design**
+[![Shudanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shudanshubora1410&theme=react-dark)](https://github.com/shudanshubora1410)
+
+---
+
+## 🎯 Current Focus
+Phase 4 – Advanced Java 🔄
+├── ✅ Exception Handling
+├── 🔄 Collections Framework (List, Set, Map)
+├── 🔄 Multithreading
+├── 🔄 File Handling & I/O
+└── ⏳ GUI Programming
+
+text
+
+
+- 🔥 **LeetCode** daily practice (DSA in Java)
+- ☕ Building **Java projects** to apply concepts
+- 📖 Preparing for **Spring Boot** (Phase 5)
 
 ---
 
@@ -190,33 +230,98 @@ Collection of LeetCode problem solutions implemented in Java.
 
 | Achievement | Details |
 |:---:|:---|
-| ☕ **43-Feature Website** | Built Cafe Roadway with 43+ features in just 3 files |
-| 🏥 **Full-Stack System** | Hospital Management with 24 API endpoints |
-| 💻 **Pure Vanilla JS** | No frameworks — clean, scalable code |
-| 🌙 **Theme Engineering** | Dark/Light mode with CSS variables |
-| 🧮 **Business Logic** | Bill calculator, GST, WhatsApp integration |
-| 📱 **Mobile-First** | Responsive design across all devices |
-| ⌨️ **Accessibility** | Keyboard shortcuts, ARIA labels, semantic HTML |
-| 📊 **SEO Expert** | JSON-LD schema, Open Graph, meta optimization |
+| ☕ **43-Feature Website** | Cafe Roadway – 43+ features in just 3 files |
+| 🏥 **Full-Stack HMS** | Hospital system with 24 REST API endpoints |
+| ☕ **Java Core Mastered** | OOP, Collections basics, Methods – 90% |
+| 🧠 **DSA Completed** | Arrays, Trees, Graphs, DP, Backtracking |
+| 🌐 **Web Dev Done** | HTML, CSS, JS, Bootstrap – Full Frontend |
+| 🔄 **Learning Adv Java** | Exception Handling, Collections, Threads |
+| 💻 **Pure Vanilla JS** | No frameworks – clean, scalable code |
+| 📊 **SEO Expert** | JSON-LD schema, Open Graph, meta tags |
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🗺️ Full Learning Roadmap
 
-[![Shudanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shudanshubora1410&theme=react-dark)](https://github.com/shudanshubora1410)
+<details>
+<summary>📚 <strong>View Complete Java Full Stack Roadmap</strong> — Click to expand</summary>
+
+### Phase 1 – Core Java ✅
+✅ Java Intro, JVM, JDK, JRE
+✅ Data Types, Operators, I/O
+✅ If-Else, Switch, Loops, Methods
+✅ OOP: Class, Object, Encapsulation
+✅ Inheritance, Polymorphism
+✅ Abstraction, Interface
+
+text
+
+
+### Phase 2 – DSA ✅
+✅ Arrays, Linked Lists, Stack, Queue
+✅ Linear Search, Binary Search
+✅ Bubble Sort, Quick Sort, Merge Sort
+✅ Trees (BST, Traversal)
+✅ Graphs (BFS, DFS, Dijkstra)
+✅ Hashing, Recursion, DP, Backtracking
+
+text
+
+
+### Phase 3 – Frontend ✅
+✅ HTML5 – Structure, Forms, Tables, Media
+✅ CSS3 – Flexbox, Grid, Animations
+✅ JavaScript – DOM, Events, ES6+
+✅ Bootstrap 5 – Responsive Design
+✅ GitHub Pages, Netlify Hosting
+
+text
+
+
+### Phase 4 – Advanced Java 🔄
+🔄 Exception Handling
+🔄 Collections (List, Set, Map)
+🔄 Multithreading
+🔄 File Handling
+⏳ GUI Programming
+
+text
+
+
+### Phase 5 – Backend Java 🎯
+🎯 MySQL, MongoDB, JDBC
+🎯 Hibernate ORM (One-to-One, Many-to-Many)
+🎯 Servlets & JSP
+🎯 Spring Framework (DI, MVC)
+🎯 Spring Boot, REST APIs
+🎯 Microservices
+
+text
+
+
+### Phase 6 – Full Stack 🎯
+🎯 React JS (Modern Frontend)
+🎯 Spring Security, JWT Auth
+🎯 OAuth2 (Google Login)
+🎯 JUnit Testing
+🎯 Spring Mail, Thymeleaf
+
+text
+
+
+</details>
 
 ---
 
 ## 📫 Let's Connect!
 
 I'm open to:
-- 💼 Internship opportunities
-- 🤝 Collaboration on projects
-- 💡 Tech discussions
-- ☕ Building premium websites for businesses
-- 📚 Learning from experienced developers
+- 💼 **Internship opportunities** (Java / Full Stack)
+- 🤝 **Collaboration** on projects
+- 💡 **Tech discussions** & mentorship
+- ☕ **Building premium websites** for businesses
 
 **Reach me at:**
 
@@ -229,22 +334,24 @@ I'm open to:
 
 ## 💡 Fun Facts
 
-- 🏥 Built a production-ready Hospital Management System in 2nd year
-- ☕ Created a 43-feature restaurant website using only 3 files
-- 🔥 Love solving coding problems on LeetCode
-- 💻 Enjoy building projects that solve real problems
-- 🌙 Dark mode enthusiast — even my websites have dark themes!
-- 📚 Always learning and exploring new technologies
-- ☕ Fueled by coffee and curiosity!
+- ☕ Fueled by **coffee** and curiosity — literally named a project after it!
+- 🏥 Built a **production-ready HMS** in 2nd year of college
+- ☕ Created a **43-feature website** using only 3 files
+- 🧠 Love solving **DSA problems** — it's like a puzzle game!
+- 🌙 **Dark mode** enthusiast — even my code editor is dark
+- 📚 I believe in **learning by building** real projects
+- 🎯 Following a structured **Java Full Stack roadmap** step by step
 
 ---
 
 <div align="center">
 
-### ⭐ Show some love by starring my repositories!
+### ⭐ Like my work? Star my repositories!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shudanshubora1410&color=brightgreen&style=for-the-badge)
 
-**Thanks for visiting! Have a great day! 😊**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer+in+the+making...;One+phase+at+a+time.+One+project+at+a+time.;Thanks+for+visiting!+Have+a+great+day!+😊" alt="Footer Typing" />
+
+**Made with ❤️ by Shudanshu Bora**
 
 </div>
