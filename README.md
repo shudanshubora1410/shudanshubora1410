@@ -281,12 +281,14 @@ Collection of **LeetCode solutions written in Java** covering Arrays, Trees, Gra
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shudanshubora1410&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shudanshubora1410&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shudanshubora1410&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shudanshubora1410&theme=tokyonight" />
 
 </div>
 
 <div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shudanshubora1410&theme=tokyonight" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shudanshubora1410&theme=tokyonight&hide_border=true)
 
