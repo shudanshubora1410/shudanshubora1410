@@ -281,16 +281,16 @@ Collection of **LeetCode solutions written in Java** covering Arrays, Trees, Gra
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shudanshubora1410&theme=tokyonight" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shudanshubora1410&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shudanshubora1410&theme=tokyonight&v=2" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shudanshubora1410&theme=tokyonight&v=2" />
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shudanshubora1410&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shudanshubora1410&theme=tokyonight&v=2" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shudanshubora1410&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=shudanshubora1410&theme=tokyonight&hide_border=true&v=2)
 
 </div>
 
@@ -298,7 +298,7 @@ Collection of **LeetCode solutions written in Java** covering Arrays, Trees, Gra
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shudanshubora1410&theme=react-dark&hide_border=true&area=true)](https://github.com/shudanshubora1410)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shudanshubora1410&theme=react-dark&hide_border=true&area=true&v=2)](https://github.com/shudanshubora1410)
 
 ---
 
