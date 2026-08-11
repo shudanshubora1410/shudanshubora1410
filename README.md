@@ -45,6 +45,7 @@ public class Shudanshu {
 
     // ── Projects ────────────────────────────────────────────────────────────
     String[] projects  = {
+        "ResuMatch 🎯   — Recruitment Platform | Spring Boot | Rule-based ATS",
         "Cafe Roadway ☕  — 43 Features | Pure Vanilla | 3 Files Only",
         "Homyz 🏠        — Real Estate Platform | Delhi NCR | Google Sheets",
         "NovaCare 🏥     — Hospital Management System | 24 REST APIs",
@@ -58,7 +59,7 @@ public class Shudanshu {
 
     void currentFocus() {
         System.out.println("📌 Mastering Advanced Java + Spring Boot Ecosystem");
-        System.out.println("🎯 Building Full Stack Projects for placement portfolio");
+        System.out.println("🎯 Just shipped ResuMatch — final-year ATS project (Spring Boot, 92 files)");
         System.out.println("🔥 Daily DSA practice on LeetCode in Java");
         System.out.println("💼 Final Year — Placement Season Mode: ON");
     }
@@ -226,6 +227,30 @@ A comprehensive hospital management system with patient management, appointment 
 
 ---
 
+### 🎯 ResuMatch — Recruitment Platform with Transparent ATS
+
+> 🏆 Final-Year Project — Java + Spring Boot 3 — 92 Java files, 13 packages — Rule-based scoring engine
+
+A full-stack recruitment platform with a **transparent, rule-based ATS scoring engine**. The same scoring formula and breakdown is shown to both candidate and recruiter — the platform's "no black boxes" claim, made real in the UI. Modular monolith: 92 Java files across 13 packages, 17 HTML pages, H2 file mode (MySQL profile included), zero paid services, one-click demo seeder.
+
+**📦 Repo:** [github.com/shudanshubora1410/ResuMatch](https://github.com/shudanshubora1410/ResuMatch)
+
+![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.5-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java Files](https://img.shields.io/badge/92_Java_Files-2E9EF7?style=for-the-badge)
+![Tests](https://img.shields.io/badge/10_JUnit_Tests-00d4ff?style=for-the-badge)
+![Zero Cost](https://img.shields.io/badge/Zero_Paid_Services-0f9d58?style=for-the-badge)
+
+**Highlights:**
+- ✅ Three-sided workflow: Seeker, Recruiter, Admin with role-scoped dashboards
+- ✅ Two cooperating score services: `GeneralScoreService` (resume-only) + `CompanyScoreService` (job-matched)
+- ✅ Resume parsing (PDF, DOCX), what-if simulator, skills gap, version comparison
+- ✅ Bulk action by score band, status history with audit trail, moderation queue
+- ✅ Public live scoring widget on the landing page — no signup needed
+- ✅ Optional Gemini AI integration with deterministic template fallback
+
+---
+
 ### 📧 Email Sender — Java Desktop Application
 
 > ☕ Core Java Project — JavaMail API — Gmail SMTP — Swing GUI
@@ -256,14 +281,14 @@ Collection of **LeetCode solutions written in Java** covering Arrays, Trees, Gra
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shudanshubora1410&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shudanshubora1410&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shudanshubora1410&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shudanshubora1410&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=shudanshubora1410&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -419,6 +444,7 @@ I'm open to:
 - 🏥 Built a **production-ready HMS** back in 2nd year of college
 - 🏠 Created **Homyz** — a full real estate platform for Delhi NCR
 - ⚡ Made a **43-feature website** using only **3 files** of vanilla code
+- 🎯 Built **ResuMatch** — a final-year ATS project with 92 Java files and a rule-based scoring engine shown to both candidate and recruiter
 - 🧠 Love **DSA problems** — feels like solving puzzles with logic!
 - 🌙 **Dark mode** enthusiast — even my code editor and terminal are dark!
 - 📚 Strong believer in **learning by building** real, meaningful projects
