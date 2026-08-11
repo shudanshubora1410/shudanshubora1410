@@ -129,7 +129,6 @@ public class Shudanshu {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
@@ -139,19 +138,17 @@ public class Shudanshu {
 
 > 🏆 FLAGSHIP PROJECT — 43+ Features — Production Ready — Only 3 Files!
 
-A dark-luxury restaurant website built from scratch using **only HTML, CSS & Vanilla JavaScript**.  
+A dark-luxury restaurant website built from scratch using **only HTML, CSS & Vanilla JavaScript**.
 43+ interactive features including bill calculator, live search, dark/light mode, spin wheel, confetti, and much more!
 
 **🌐 Live:** [shudanshubora1410.github.io/cafe-roadway](https://shudanshubora1410.github.io/cafe-roadway)
+**📦 Repo:** [github.com/shudanshubora1410/cafe-roadway](https://github.com/shudanshubora1410/cafe-roadway)
 
-[![View Code](https://img.shields.io/badge/View_Code-d4af37?style=for-the-badge&logo=github&logoColor=black)](https://github.com/shudanshubora1410/cafe-roadway)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0f0f0f?style=for-the-badge&logo=google-chrome&logoColor=d4af37)](https://shudanshubora1410.github.io/cafe-roadway)
 ![Features](https://img.shields.io/badge/43+_Features-0f9d58?style=for-the-badge)
 ![Files](https://img.shields.io/badge/Only_3_Files-Pure_Vanilla-1572B6?style=for-the-badge)
 
 <details>
 <summary>✨ <strong>View All 43 Features — Click to Expand</strong></summary>
-
 <br/>
 
 | Category | Features |
@@ -176,15 +173,13 @@ A dark-luxury restaurant website built from scratch using **only HTML, CSS & Van
 A modern real estate website for Delhi NCR with property filtering, WhatsApp integration, animated sections, contact form connected to Google Sheets, and interactive maps. Built as the final project at **Incapp IT Training Company**.
 
 **🌐 Live:** [shudanshubora1410.github.io/Homyz](https://shudanshubora1410.github.io/Homyz)
+**📦 Repo:** [github.com/shudanshubora1410/Homyz](https://github.com/shudanshubora1410/Homyz)
 
-[![View Code](https://img.shields.io/badge/View_Code-e74c3c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shudanshubora1410/Homyz)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-e74c3c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shudanshubora1410.github.io/Homyz)
 ![Region](https://img.shields.io/badge/Delhi_NCR-India-FF9933?style=for-the-badge)
 ![Training](https://img.shields.io/badge/Incapp-IT_Training-2E9EF7?style=for-the-badge)
 
 <details>
 <summary>✨ <strong>View All Features — Click to Expand</strong></summary>
-
 <br/>
 
 | Feature | Details |
@@ -210,13 +205,13 @@ A modern real estate website for Delhi NCR with property filtering, WhatsApp int
 
 A comprehensive hospital management system with patient management, appointment scheduling, role-based access and automated GST billing. Built using **Node.js + MySQL**.
 
-[![View Code](https://img.shields.io/badge/View_Code-2E9EF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shudanshubora1410/hospital-management-system)
+**📦 Repo:** [github.com/shudanshubora1410/hospital-management-system](https://github.com/shudanshubora1410/hospital-management-system)
+
 ![APIs](https://img.shields.io/badge/24_REST_APIs-00d4ff?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/Node.js_+_MySQL-339933?style=for-the-badge)
 
 <details>
 <summary>✨ <strong>View All Features — Click to Expand</strong></summary>
-
 <br/>
 
 | Feature | Details |
@@ -237,7 +232,8 @@ A comprehensive hospital management system with patient management, appointment 
 
 Email sender desktop app built using **Core Java & Swing** with Gmail SMTP, file attachment support and a clean native UI.
 
-[![View Code](https://img.shields.io/badge/View_Code-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/shudanshubora1410/Email-Sender-Java)
+**📦 Repo:** [github.com/shudanshubora1410/Email-Sender-Java](https://github.com/shudanshubora1410/Email-Sender-Java)
+
 ![Java](https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Java_Swing-GUI-orange?style=for-the-badge)
 
@@ -249,8 +245,9 @@ Email sender desktop app built using **Core Java & Swing** with Gmail SMTP, file
 
 Collection of **LeetCode solutions written in Java** covering Arrays, Trees, Graphs, Dynamic Programming, Backtracking and more. Updated regularly as part of placement prep.
 
-[![View Solutions](https://img.shields.io/badge/View_Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://github.com/shudanshubora1410/LeetCode-Java)
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shudanshubora1410)
+**📦 Repo:** [github.com/shudanshubora1410/LeetCode-Java](https://github.com/shudanshubora1410/LeetCode-Java)
+**🧠 Profile:** [leetcode.com/shudanshubora1410](https://leetcode.com/shudanshubora1410)
+
 ![Language](https://img.shields.io/badge/Java-DSA-ED8B00?style=for-the-badge)
 
 ---
@@ -259,8 +256,8 @@ Collection of **LeetCode solutions written in Java** covering Arrays, Trees, Gra
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shudanshubora1410&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shudanshubora1410&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shudanshubora1410&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shudanshubora1410&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -323,10 +320,10 @@ Collection of **LeetCode solutions written in Java** covering Arrays, Trees, Gra
 
 <details>
 <summary>🗺️ <strong>Click to View Full Roadmap with Progress</strong></summary>
-
 <br/>
 
 **Phase 1 — Core Java ✅ DONE**
+
 ```
 ✅ Java Intro, JVM, JDK, JRE
 ✅ Data Types, Operators, Input / Output
@@ -337,6 +334,7 @@ Collection of **LeetCode solutions written in Java** covering Arrays, Trees, Gra
 ```
 
 **Phase 2 — DSA ✅ DONE**
+
 ```
 ✅ Arrays, Linked Lists, Stack, Queue
 ✅ Linear Search, Binary Search
@@ -347,6 +345,7 @@ Collection of **LeetCode solutions written in Java** covering Arrays, Trees, Gra
 ```
 
 **Phase 3 — Frontend ✅ DONE**
+
 ```
 ✅ HTML5 — Structure, Forms, Tables, Media
 ✅ CSS3 — Flexbox, Grid, Animations, Variables
@@ -356,6 +355,7 @@ Collection of **LeetCode solutions written in Java** covering Arrays, Trees, Gra
 ```
 
 **Phase 4 — Advanced Java ✅ DONE**
+
 ```
 ✅ Exception Handling — Custom Exceptions
 ✅ Collections Framework — List, Set, Map, Queue
@@ -365,6 +365,7 @@ Collection of **LeetCode solutions written in Java** covering Arrays, Trees, Gra
 ```
 
 **Phase 5 — Backend Java 🔄 ACTIVE**
+
 ```
 🔄 MySQL — Queries, Joins, Indexing
 🔄 JDBC — Java Database Connectivity
@@ -376,6 +377,7 @@ Collection of **LeetCode solutions written in Java** covering Arrays, Trees, Gra
 ```
 
 **Phase 6 — Full Stack 🎯 SOON**
+
 ```
 🎯 React JS — Components, Hooks, State, Router
 🎯 Spring Security — Authentication & Authorization
@@ -392,15 +394,15 @@ Collection of **LeetCode solutions written in Java** covering Arrays, Trees, Gra
 
 ## 📫 Let's Connect — Open to Opportunities!
 
-> 🟢 **I'm actively looking for SDE Internships and Full-Time roles (2025)**
+> 🟢 **I'm actively looking for SDE Internships and Full-Time roles (2025–2026)**
 
 | Platform | Link |
 |:---|:---|
 | 📧 **Email** | [shudanshubora1410@gmail.com](mailto:shudanshubora1410@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/shudanshubora](https://www.linkedin.com/in/shudanshubora/) |
 | 🌐 **Portfolio** | [shudanshubora1410.github.io/portfolio-website](https://shudanshubora1410.github.io/portfolio-website/) |
-| 🏠 **Homyz** | [shudanshubora1410.github.io/Homyz](https://shudanshubora1410.github.io/Homyz) |
 | ☕ **Cafe Roadway** | [shudanshubora1410.github.io/cafe-roadway](https://shudanshubora1410.github.io/cafe-roadway) |
+| 🏠 **Homyz** | [shudanshubora1410.github.io/Homyz](https://shudanshubora1410.github.io/Homyz) |
 | 🧠 **LeetCode** | [leetcode.com/shudanshubora1410](https://leetcode.com/shudanshubora1410) |
 
 I'm open to:
@@ -436,7 +438,7 @@ I'm open to:
 ![Made with Love](https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Powered_by-Java_☕-ED8B00?style=for-the-badge)
 ![Building](https://img.shields.io/badge/Always-Building_🔨-2E9EF7?style=for-the-badge)
-![Final Year](https://img.shields.io/badge/Final_Year-2025_🎓-6DB33F?style=for-the-badge)
+![Final Year](https://img.shields.io/badge/Final_Year-2026_🎓-6DB33F?style=for-the-badge)
 
 <br/>
 
@@ -447,22 +449,3 @@ I'm open to:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
-```
-
----
-
-## ✅ Key Changes & Improvements Made
-
-| What Changed | Old Version | New Version |
-|:---|:---|:---|
-| 🎓 **Year** | 3rd Year | **4th Year (Final Year)** |
-| 📌 **Status Badge** | Not mentioned | **🟢 Actively seeking SDE roles** |
-| ⚙️ **Adv. Java status** | 🔄 Active | **✅ Done** (moved forward) |
-| 🔄 **Phase 5** | 🎯 Soon | **🔄 Active** (Spring Boot, MySQL) |
-| 💻 **Code block** | Basic fields | **Better organized with sections & comments** |
-| 🎯 **Focus section** | Phase 4 tree | **Phase 5 tree with final year context** |
-| 📫 **Connect section** | Generic | **Added "Open to SDE Internships 2025"** |
-| 🏅 **Achievements** | 8 rows | **9 rows + Final Year badge added** |
-| 📈 **Activity graph** | No area fill | **`area=true` added for better visual** |
-| 🔚 **Footer badges** | 3 badges | **4 badges — Final Year 🎓 added** |
-| 📚 **Roadmap** | Phase 4 active | **Phase 4 ✅ done, Phase 5 🔄 active** |
